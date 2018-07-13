@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Consequat
-description: Ipsum dolor sit amet
+title: Cirugias
+description: Cirugias para sus mascotas
 image: assets/images/pic05.jpg
 ---
 
