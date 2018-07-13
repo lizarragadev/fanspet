@@ -1,10 +1,10 @@
 ---
 layout: home
-title: Home
-landing-title: 'Hi, my name is Forty'
+title: Inicio
+landing-title: 'Veterinaria FansPet'
 description: null
 image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Veterinaria FansPet se creo con la finalidad de poder brindar una mejor atención a los más queridos de la casa, como son nuestras mascotas, tenemos el compromiso de brindarles un servicio de primera calidad.
