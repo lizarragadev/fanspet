@@ -3,8 +3,8 @@ title: Veterinaria
 subtitle: FansPet
 email: fanspet@gmail.com
 description: Veterinaria FansPet comprometidos con la salud de sus mascotas.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://gusn8.github.io/fanspet" # the base hostname & protocol for your site
+baseurl: "/fanspet/" # the subpath of your site, e.g. /blog
+url: "http://gusn8.github.io" # the base hostname & protocol for your site
 author:
 street_address: Ciudad Satélite, Nro 111
 city: El Alto
